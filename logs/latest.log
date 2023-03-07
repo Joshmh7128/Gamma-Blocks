@@ -1,46 +1,71 @@
-[05:02:25] [ServerMain/INFO]: Building unoptimized datafixer
-[05:02:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:02:31] [ServerMain/INFO]: Loaded 7 recipes
-[05:02:32] [ServerMain/INFO]: Loaded 1179 advancements
-[05:02:33] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[05:02:33] [Server thread/INFO]: Loading properties
-[05:02:33] [Server thread/INFO]: Default game type: SURVIVAL
-[05:02:33] [Server thread/INFO]: Generating keypair
-[05:02:34] [Server thread/INFO]: Starting Minecraft server on *:5565
-[05:02:34] [Server thread/INFO]: Using default channel type
-[05:02:34] [Server thread/INFO]: Preparing level "world"
-[05:02:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:02:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:02:47] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[05:02:48] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[05:02:49] [Server thread/INFO]: Time elapsed: 10131 ms
-[05:02:49] [Server thread/INFO]: Done (14.956s)! For help, type "help"
-[09:04:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[09:04:41] [Server thread/INFO]: ? stop<--[HERE]
-[09:04:48] [Server thread/INFO]: Stopping the server
-[09:04:48] [Server thread/INFO]: Stopping server
-[09:04:48] [Server thread/INFO]: Saving players
-[09:04:48] [Server thread/INFO]: Saving worlds
-[09:04:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:04:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:04:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:04:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:02:33] [ServerMain/INFO]: Building unoptimized datafixer
+[05:02:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:02:39] [ServerMain/INFO]: Loaded 7 recipes
+[05:02:40] [ServerMain/INFO]: Loaded 1179 advancements
+[05:02:41] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[05:02:41] [Server thread/INFO]: Loading properties
+[05:02:41] [Server thread/INFO]: Default game type: SURVIVAL
+[05:02:41] [Server thread/INFO]: Generating keypair
+[05:02:41] [Server thread/INFO]: Starting Minecraft server on *:5565
+[05:02:41] [Server thread/INFO]: Using default channel type
+[05:02:41] [Server thread/INFO]: Preparing level "world"
+[05:02:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:02:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:02:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:02:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:02:54] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[05:02:54] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[05:02:55] [Server thread/INFO]: Time elapsed: 9254 ms
+[05:02:55] [Server thread/INFO]: Done (14.026s)! For help, type "help"
+[13:16:50] [User Authenticator #1/INFO]: UUID of player Eytan is f601dab7-2d00-4eba-8bee-01027fdd3c3e
+[13:16:51] [Server thread/INFO]: Eytan[/77.125.52.59:62865] logged in with entity id 98 at (-782.1107064584194, 71.0, -191.26883288782986)
+[13:16:51] [Server thread/INFO]: Eytan joined the game
+[13:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[13:45:29] [Server thread/INFO]: Eytan has made the advancement [Hot Stuff]
+[13:54:11] [Server thread/INFO]: Eytan lost connection: Disconnected
+[13:54:11] [Server thread/INFO]: Eytan left the game
+[16:34:01] [User Authenticator #2/INFO]: UUID of player CatBeans_ is befab966-1c15-45e3-8380-33542a36b462
+[16:34:02] [Server thread/INFO]: CatBeans_[/72.221.92.84:60859] logged in with entity id 5552 at (-1018.7380491051464, 66.0, -384.9127838994252)
+[16:34:02] [Server thread/INFO]: CatBeans_ joined the game
+[16:34:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[16:46:34] [Server thread/INFO]: CatBeans_ lost connection: Disconnected
+[16:46:34] [Server thread/INFO]: CatBeans_ left the game
+[16:53:07] [User Authenticator #3/INFO]: UUID of player Eytan is f601dab7-2d00-4eba-8bee-01027fdd3c3e
+[16:53:07] [Server thread/INFO]: Eytan[/77.125.52.59:65097] logged in with entity id 6685 at (-799.2241501992171, 71.0, -196.76921457304593)
+[16:53:07] [Server thread/INFO]: Eytan joined the game
+[16:53:15] [Server thread/INFO]: Eytan lost connection: Disconnected
+[16:53:15] [Server thread/INFO]: Eytan left the game
+[16:53:17] [User Authenticator #4/INFO]: UUID of player Eytan is f601dab7-2d00-4eba-8bee-01027fdd3c3e
+[16:53:17] [Server thread/INFO]: Eytan[/77.125.52.59:65102] logged in with entity id 6978 at (-798.8373401372443, 71.0, -193.80524242863243)
+[16:53:17] [Server thread/INFO]: Eytan joined the game
+[16:53:22] [Server thread/INFO]: Eytan lost connection: Disconnected
+[16:53:22] [Server thread/INFO]: Eytan left the game
+[16:54:08] [User Authenticator #5/INFO]: UUID of player Eytan is f601dab7-2d00-4eba-8bee-01027fdd3c3e
+[16:54:08] [Server thread/INFO]: Eytan[/77.125.52.59:65163] logged in with entity id 7273 at (-798.8373401372443, 71.0, -193.80524242863243)
+[16:54:08] [Server thread/INFO]: Eytan joined the game
+[16:56:47] [Server thread/INFO]: Eytan lost connection: Disconnected
+[16:56:47] [Server thread/INFO]: Eytan left the game
+[17:09:00] [Server thread/INFO]: Stopping the server
+[17:09:00] [Server thread/INFO]: Stopping server
+[17:09:00] [Server thread/INFO]: Saving players
+[17:09:00] [Server thread/INFO]: Saving worlds
+[17:09:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:09:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:09:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:09:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
