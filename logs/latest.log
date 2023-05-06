@@ -1,40 +1,33 @@
-[05:01:29] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:01:30] [ServerMain/INFO]: Loaded 7 recipes
-[05:01:31] [ServerMain/INFO]: Loaded 1179 advancements
-[05:01:31] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[05:01:31] [Server thread/INFO]: Loading properties
-[05:01:31] [Server thread/INFO]: Default game type: SURVIVAL
-[05:01:31] [Server thread/INFO]: Generating keypair
-[05:01:31] [Server thread/INFO]: Starting Minecraft server on *:5565
-[05:01:31] [Server thread/INFO]: Using default channel type
-[05:01:32] [Server thread/INFO]: Preparing level "world"
-[05:01:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:01:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:01:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:01:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:01:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:01:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:01:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:01:38] [Worker-Main-3/INFO]: Preparing spawn area: 28%
-[05:01:38] [Server thread/INFO]: Time elapsed: 4303 ms
-[05:01:38] [Server thread/INFO]: Done (6.860s)! For help, type "help"
-[10:30:00] [User Authenticator #1/INFO]: UUID of player ISlaySoHard is 0285c6ca-c61c-44b7-be31-2ec2662ca7f2
-[10:30:00] [Server thread/INFO]: ISlaySoHard[/71.184.94.63:63760] logged in with entity id 88 at (-861.6271234951461, 85.0, -352.57199574234266)
-[10:30:00] [Server thread/INFO]: ISlaySoHard joined the game
-[10:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4215ms or 84 ticks behind
-[12:56:22] [Server thread/INFO]: ISlaySoHard fell from a high place
-[13:04:30] [Server thread/INFO]: ISlaySoHard lost connection: Disconnected
-[13:04:30] [Server thread/INFO]: ISlaySoHard left the game
-[15:57:24] [Server thread/INFO]: Stopping the server
-[15:57:24] [Server thread/INFO]: Stopping server
-[15:57:24] [Server thread/INFO]: Saving players
-[15:57:24] [Server thread/INFO]: Saving worlds
-[15:57:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:57:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:57:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:01:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:01:38] [ServerMain/INFO]: Loaded 7 recipes
+[05:01:38] [ServerMain/INFO]: Loaded 1179 advancements
+[05:01:39] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[05:01:39] [Server thread/INFO]: Loading properties
+[05:01:39] [Server thread/INFO]: Default game type: SURVIVAL
+[05:01:39] [Server thread/INFO]: Generating keypair
+[05:01:39] [Server thread/INFO]: Starting Minecraft server on *:5565
+[05:01:39] [Server thread/INFO]: Using default channel type
+[05:01:39] [Server thread/INFO]: Preparing level "world"
+[05:01:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:01:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:01:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:01:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:01:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:01:46] [Server thread/INFO]: Time elapsed: 4633 ms
+[05:01:46] [Server thread/INFO]: Done (7.135s)! For help, type "help"
+[15:08:34] [Server thread/INFO]: Stopping the server
+[15:08:34] [Server thread/INFO]: Stopping server
+[15:08:35] [Server thread/INFO]: Saving players
+[15:08:35] [Server thread/INFO]: Saving worlds
+[15:08:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:08:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:08:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:08:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
